@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+My Official Website!
 
-Template Name: iPortfolio
-Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-Author: BootstrapMade.com
+Template Name: Shewon Winslow
+Template URL: https://shewon1.github.io/
+Author: Shewon
 License: https://bootstrapmade.com/license/
